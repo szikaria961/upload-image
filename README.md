@@ -1,3 +1,3 @@
-# Upload Image
+# Image Uploader
 
 ...
